@@ -1,0 +1,68 @@
+--- Q7 testcase ---
+Format-Version: 1.0
+Q7-vendor: www.xored.com/q7
+Context-Type: com.xored.q7.workspace.context
+Element-Name: HelloWorld Java Project
+Element-Type: context
+Element-Version: 2.0
+Id: _qm_t8NHJEeKEQrCxVoftAg
+Q7-Runtime-Version: 1.3.3.201305250831
+Save-Time: 6/10/13 7:31 PM
+
+------=_contents/helloWorld/.classpath-2e940ae3-01b6-35c1-845a-73e51bc7c7c4
+Content-Type: q7/binary
+Entry-Name: contents/helloWorld/.classpath
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnSzsa/IzVEoSy0qzszPs1Uy1DNQUkjN
+S85PycxLt1UKDXHTtVCyt+OySc5JLC4uSCzJsOPiRHBS80qKKhWyM/NSbJWKi5KVFECCEKY+ToXJ+Xkw
+hflF6XqpyTmZBcWpelkpJXo5iaV5yRlAq/W8glzjnf39Qhw9/VyD9PGYll9aUlBaAjMwKTMPpNZGH8m9
+AFBLBwi09c8ljwAAAOMAAABQSwECFAAUAAgACAAAACEAtPXPJY8AAADjAAAACAAAAAAAAAAAAAAAAAAA
+AAAALmNvbnRlbnRQSwUGAAAAAAEAAQA2AAAAxQAAAAAA
+------=_contents/helloWorld/.classpath-2e940ae3-01b6-35c1-845a-73e51bc7c7c4--
+------=_contents/helloWorld/.project-9dc85362-de01-30c9-8fb0-c995c2f88ace
+Content-Type: q7/binary
+Entry-Name: contents/helloWorld/.project
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnR1kM0OgjAQhM/yFIS7VG8eChw0voAa
+z7XdYEl/yLYQH98WKhETbzOzs/3a0ualVT4COmlNVezLXZGD4VZI01bF7XreHoqmzmiPtgPuT+A4yt6H
+cp1tqGEa6icoZe8WlaBkCsKAW63B+JqSjwphOsNFTb7NY5BKXHrgwSR3DGvMiBgkjMW2BK5k76DshC+5
+xSDYyKY+4AIPCwzbIVLdbMnKU/JDSEG6QKD5AWGuzvo/e55H9NSLZy3ryxtXn/YGUEsHCIKZX/a+AAAA
+cQEAAFBLAQIUABQACAAIAAAAIQCCmV/2vgAAAHEBAAAIAAAAAAAAAAAAAAAAAAAAAAAuY29udGVudFBL
+BQYAAAAAAQABADYAAAD0AAAAAAA=
+------=_contents/helloWorld/.project-9dc85362-de01-30c9-8fb0-c995c2f88ace--
+------=_contents/helloWorld/src/org/example/Program.java-b244eca0-a5e4-37f4-b55a-a21f706cd0c8
+Content-Type: q7/binary
+Entry-Name: contents/helloWorld/src/org/example/Program.java
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnQtijsKwzAMQOfoFGqmBIovkAt0LGQs
+HVTHGFPZMrLSDyV3bwqdHrz3Kvk7xYCi0YUX5cphAqjrjZNHz9QanlWiUsYPdH/fjGzHQ9KCmVIZZtNU
+4uWKpLGNv7Ob381CdrKaq3s0LkN/CsxyxKcoL4d+nKDbYIMvUEsHCLq+C212AAAAgwAAAFBLAQIUABQA
+CAAIAAAAIQC6vgttdgAAAIMAAAAIAAAAAAAAAAAAAAAAAAAAAAAuY29udGVudFBLBQYAAAAAAQABADYA
+AACsAAAAAAA=
+------=_contents/helloWorld/src/org/example/Program.java-b244eca0-a5e4-37f4-b55a-a21f706cd0c8--
+------=_contents/helloWorld/bin/org/example/Program.class-53c01805-39fa-3714-881a-f7d9b5ec1eb9
+Content-Type: q7/binary
+Entry-Name: contents/helloWorld/bin/org/example/Program.class
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnRtUMtOwkAUPSOP0loEQfCt4AqMoUsX
+GDcmxgVREwwbVwNM6pBphwzFx2fpQhMXfoAfZbytJMSks7hn7uOcOXe+fz6/AHRwZGGFoaqN74lnHkyV
+8G6N9g0PLGQZyhP+yD3FQ9+7GU7EKGLIn8lQRucMmVZ7wJC90GPhIAPbRQ55hlJPhuJ6HgyFueNDJRgq
+PT3iasCNjPNFMRs9yBlDrZfydJfaAZchQ71131ta6EdGhn63PbCxjqqFyj+D/ZdZJAIXG6iROT2PYvWk
+LTUpyzAiviD1AjYZildCKX3SeNJGjZsOtrFrYYe+IoXhYg/7DNY0LimyVWuluSLX3Pi0VDXFNIPT13Mz
+EpcyXt9drNqJB9EEOUZ8VuhG30jRoswjZIS54w8UXpO2QzGfFDNYpej+DRAWCW2sobQgnyZiVHtDuVJ/
+x9ZSwCGMSQWSWorYOMAhIUMjmWz+AlBLBwhIpj7FWAEAACYCAABQSwECFAAUAAgACAAAACEASKY+xVgB
+AAAmAgAACAAAAAAAAAAAAAAAAAAAAAAALmNvbnRlbnRQSwUGAAAAAAEAAQA2AAAAjgEAAAAA
+------=_contents/helloWorld/bin/org/example/Program.class-53c01805-39fa-3714-881a-f7d9b5ec1eb9--
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf
+Content-Type: q7/binary
+Entry-Name: .q7.content
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnS9Uk1PwzAMve9XRLmTAJdN1boJTZPG
+EAguwG0Kadpm5KNNwtqfj7e1pVt3QELi5vg9Pz/bmc5rrdBOOC+tifENucZIGG4TabIYf4X0aoLns9GU
+W01q60RCyjGprPv0BeMiemujhTVB1AHVWkad2u1eDfSNjyAf4zyEIqK0qipidUasy+j7431Ludyiq6KA
+0wNOyzHtcCI45DAyTAN3JZSyYEolaM12DD07uxU8YCSTGG9KvQmTp9V6KR6WL25Rv9o03GV4NkIIBoQB
+TNjH8CqOdb6RzTtZfCQAJZVKtDjhinmwE3JMLxMawT5sVQKLaggf0nTSAxAW1QMHsKiZLpQ4oZz1hz1k
+jumjzx8TBx5t1Hrtz1PDxKkD7/h/uN/CSf9sfkrb4x7uTrvD78NfffLZ6BtQSwcI7S4WxjIBAAA2AwAA
+UEsBAhQAFAAIAAgAAAAhAO0uFsYyAQAANgMAAAgAAAAAAAAAAAAAAAAAAAAAAC5jb250ZW50UEsFBgAA
+AAABAAEANgAAAGgBAAAAAA==
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf--

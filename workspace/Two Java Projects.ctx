@@ -1,0 +1,110 @@
+--- Q7 testcase ---
+Format-Version: 1.0
+Q7-vendor: www.xored.com/q7
+Context-Type: com.xored.q7.workspace.context
+Element-Name: Two Java Projects
+Element-Type: context
+Element-Version: 2.0
+Id: _wnYjENHJEeKEQrCxVoftAg
+Q7-Runtime-Version: 1.3.3.201305250831
+Save-Time: 6/10/13 7:33 PM
+
+------=_contents/helloWorld/.classpath-2e940ae3-01b6-35c1-845a-73e51bc7c7c4
+Content-Type: q7/binary
+Entry-Name: contents/helloWorld/.classpath
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnR9j80KwjAQhM/6FCV3U715aBWRCopU
+EMWjxM3aRrdJyaaib68iouDPbWf5dmY2GZ4rik7o2Tibip7siggtOG1skYr1atLpi+GgnQAp5lqFctBu
+vQTa4C/R0VidCvYgovvyMcY/QXD2CTpfSAQyNaM86CBJNRbKW7ScLbPteJGvRtM8W8Zf3cBVO2NRASCz
+bwg5FXtFjOKzUVwikds4T3pudn/KuSbUTXie3fzvbBK/vX8FUEsHCJ4IP06yAAAAMgEAAFBLAQIUABQA
+CAAIAAAAIQCeCD9OsgAAADIBAAAIAAAAAAAAAAAAAAAAAAAAAAAuY29udGVudFBLBQYAAAAAAQABADYA
+AADoAAAAAAA=
+------=_contents/helloWorld/.classpath-2e940ae3-01b6-35c1-845a-73e51bc7c7c4--
+------=_contents/helloWorld/.project-9dc85362-de01-30c9-8fb0-c995c2f88ace
+Content-Type: q7/binary
+Entry-Name: contents/helloWorld/.project
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnR1kM0OgjAQhM/yFIS7VG8eChw0voAa
+z7XdYEl/yLYQH98WKhETbzOzs/3a0ualVT4COmlNVezLXZGD4VZI01bF7XreHoqmzmiPtgPuT+A4yt6H
+cp1tqGEa6icoZe8WlaBkCsKAW63B+JqSjwphOsNFTb7NY5BKXHrgwSR3DGvMiBgkjMW2BK5k76DshC+5
+xSDYyKY+4AIPCwzbIVLdbMnKU/JDSEG6QKD5AWGuzvo/e55H9NSLZy3ryxtXn/YGUEsHCIKZX/a+AAAA
+cQEAAFBLAQIUABQACAAIAAAAIQCCmV/2vgAAAHEBAAAIAAAAAAAAAAAAAAAAAAAAAAAuY29udGVudFBL
+BQYAAAAAAQABADYAAAD0AAAAAAA=
+------=_contents/helloWorld/.project-9dc85362-de01-30c9-8fb0-c995c2f88ace--
+------=_contents/helloWorld/src/org/example/Program.java-b244eca0-a5e4-37f4-b55a-a21f706cd0c8
+Content-Type: q7/binary
+Entry-Name: contents/helloWorld/src/org/example/Program.java
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnQrSEzOTkxPVcgvStdLrUjMLchJtebi
+KihNyslMVkjOSSwuVggoyk8vSsxVqObihIoXlySWAKmy/MwUhdzEzDyN4JKizLz06FiFxKL0Yk2QSs7Q
+kswcvYzUnJx8DU1rLs5arlouAFBLBwgQ1Mu+ZQAAAGwAAABQSwECFAAUAAgACAAAACEAENTLvmUAAABs
+AAAACAAAAAAAAAAAAAAAAAAAAAAALmNvbnRlbnRQSwUGAAAAAAEAAQA2AAAAmwAAAAAA
+------=_contents/helloWorld/src/org/example/Program.java-b244eca0-a5e4-37f4-b55a-a21f706cd0c8--
+------=_contents/helloWorldLib/.classpath-bb61f2a7-75ce-3ca0-aae7-b0f781b324ef
+Content-Type: q7/binary
+Entry-Name: contents/helloWorldLib/.classpath
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnSzsa/IzVEoSy0qzszPs1Uy1DNQUkjN
+S85PycxLt1UKDXHTtVCyt+OySc5JLC4uSCzJsOPiRHBS80qKKhWyM/NSbJWKi5KVFECCEKY+ToXJ+Xkw
+hflF6XqpyTmZBcWpelkpJXo5iaV5yRlAq/W8glzjnf39Qhw9/VyD9PGYll9aUlBaAjMwKTMPpNZGH8m9
+AFBLBwi09c8ljwAAAOMAAABQSwECFAAUAAgACAAAACEAtPXPJY8AAADjAAAACAAAAAAAAAAAAAAAAAAA
+AAAALmNvbnRlbnRQSwUGAAAAAAEAAQA2AAAAxQAAAAAA
+------=_contents/helloWorldLib/.classpath-bb61f2a7-75ce-3ca0-aae7-b0f781b324ef--
+------=_contents/helloWorldLib/.project-9ff3b3e5-d95b-31dc-af77-588c30099631
+Content-Type: q7/binary
+Entry-Name: contents/helloWorldLib/.project
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnR1kDEPwiAQhWf7K5ruFt0caDtonNzU
+OFO4VBoKzUEbf77QYmNN3N57944PoNWrU+kIaKXRRbbPd1kKmhshdVNk99t5e8iqMqE9mha4O4HlKHvn
+y2WyoZp1UD5BKfMwqMRF1pRMmZ9x03WgXUnJR/kwHmODJt+mHqQS1x64N9Ed/RrTIgSRZLDJgSvZW8hb
+4XJu0As2sqkPuMD9AsNmCFQ7W7LylPwQYhAv4GluQJirs/7PnucBPfXCWcv68sbVv70BUEsHCJ+/89vB
+AAAAdAEAAFBLAQIUABQACAAIAAAAIQCfv/PbwQAAAHQBAAAIAAAAAAAAAAAAAAAAAAAAAAAuY29udGVu
+dFBLBQYAAAAAAQABADYAAAD3AAAAAAA=
+------=_contents/helloWorldLib/.project-9ff3b3e5-d95b-31dc-af77-588c30099631--
+------=_contents/helloWorld/bin/org/example/Program.class-53c01805-39fa-3714-881a-f7d9b5ec1eb9
+Content-Type: q7/binary
+Entry-Name: contents/helloWorld/bin/org/example/Program.class
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnRtT7FOwzAQfW6ShoZAS0MLjGwtQyOx
+FrEgMUWAVMjC5AQrdeUkyKQVv8UEYuAD+CjEOUQKQy35ns/33t2775/PLwAznLjoMASlzkLxyvNnJcI7
+XWaa5y5shsGKb3ioeJGFt8lKpBVD90IWsrpksCbTmMG+Kp+EBws9Hw66DP1IFuJmnSdC3/NECYZhVKZc
+xVxLkzefdrWULwyjaMvoOZVzLguG8eQxai0sKi2LbD6NPRwgcDEkg//lD5VUPg6NC2cplCqpD9cZjQm2
+tGHwFuVap+JaGkN+M3xmiDgFLQhzOvSixSi6lIWEjNA5e8fOW132KHbrTwu7FP0/AuEeYQ/76Dfic7qm
+Zn9g0Go9QsO3qEurtzHCuOYf1czjX1BLBwiRS+p+HAEAALMBAABQSwECFAAUAAgACAAAACEAkUvqfhwB
+AACzAQAACAAAAAAAAAAAAAAAAAAAAAAALmNvbnRlbnRQSwUGAAAAAAEAAQA2AAAAUgEAAAAA
+------=_contents/helloWorld/bin/org/example/Program.class-53c01805-39fa-3714-881a-f7d9b5ec1eb9--
+------=_contents/helloWorldLib/src/org/example/Util.java-a2f64f10-93e4-3be5-8a6a-a1bdd1ef0151
+Content-Type: q7/binary
+Entry-Name: contents/helloWorldLib/src/org/example/Util.java
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnQtyUEKg0AMQNH15BSpKwWZC3iB7ksP
+kI5BB6MZZmKriHdvha4+/JcoTDQwah48bzQn4Q4grS+JAYNQKfi0KHiA+89iZL+8NfY4sojWzaXusRfj
+2etqPuW4mCx1db+8xY9m6W9V04E74YQvUEsHCFUo2o5qAAAAdAAAAFBLAQIUABQACAAIAAAAIQBVKNqO
+agAAAHQAAAAIAAAAAAAAAAAAAAAAAAAAAAAuY29udGVudFBLBQYAAAAAAQABADYAAACgAAAAAAA=
+------=_contents/helloWorldLib/src/org/example/Util.java-a2f64f10-93e4-3be5-8a6a-a1bdd1ef0151--
+------=_contents/helloWorldLib/bin/org/example/Util.class-9144c8f1-5e53-30d7-94aa-092aec9c5fdc
+Content-Type: q7/binary
+Entry-Name: contents/helloWorldLib/bin/org/example/Util.class
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnRtUMlOAkEQfc02zDAIgrhv3NAo8wEY
+LybGw0RNUO4NdLBJzzQZGpfP0oMmHvwAP8pYPRq32IdaXr2qetWvb88vANrYcpBhqOpkFIhbHk2UCC6N
+VA5yhI75NQ8Uj0fBWX8sBoahcCBjaQ4Zsq2dHkPuSA+FhyxcH3kUGCqhjMXpLOqL5IL3lWCohXrAVY8n
+0uafYM5cyWla+7O3w5C/EkppF1XUHMz/UtG9mxoR+ahjgRToGQlqhGlZ6uA8kbHpmkTwqFPEIkP5xA7a
+277RiRo2PSxj1cEKQ/2fDh9rWGdwJhZSMc1thT/2GoJHHXux19WzZCCOpT3DtZLblocmSBHsy1BEf0HW
+oSwgz8jnd59QvE/LHtlCCmZRIut/EMiXybuY+2reJ7Z97gMqtcYjlr4HeGkpjyKRSykKatpIo813UEsH
+CAGdmTU/AQAA3gEAAFBLAQIUABQACAAIAAAAIQABnZk1PwEAAN4BAAAIAAAAAAAAAAAAAAAAAAAAAAAu
+Y29udGVudFBLBQYAAAAAAQABADYAAAB1AQAAAAA=
+------=_contents/helloWorldLib/bin/org/example/Util.class-9144c8f1-5e53-30d7-94aa-092aec9c5fdc--
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf
+Content-Type: q7/binary
+Entry-Name: .q7.content
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnTVVMtOwzAQvPcrLN+xgUtRlLRCVSUo
+D4HE84Rcx00c/Egd0+Tz2bZJSB8SSAik3tY749nxjpJwWGmFFsIV0poIn5BjjIThNpYmifCHnx2d4eGg
+F3KrSWWdiMm8T0rr3ouccRE8N9XIGi8qjyotg1btdKkG+qYIoB/h1Ps8oLQsS2J1QqxL6MvNZUPZP6K9
+RQGnK5zO+7TFieDQw8gwDdyH0qIJWzB052wmuC8wknGE30rzmo1vLyZjcTW+d6Pqyc78eYIHPYTgaWDd
++GUNp7y+WAumQikLr1QxXhOAMpNKNDjhihVgxKeY7ifUgl3YqhhWVBOm0rTSOyCsqAPuwKJiOldig7I1
+HxaROKbXPr9MrHi0VuuM327tNjYdFI7/h/sMMv21+ZA24X6X9bWcHmjcj16qA816Zf0Pgg5p+4Uvyx/9
+xwa9T1BLBwiKXwwNRgEAABkFAABQSwECFAAUAAgACAAAACEAil8MDUYBAAAZBQAACAAAAAAAAAAAAAAA
+AAAAAAAALmNvbnRlbnRQSwUGAAAAAAEAAQA2AAAAfAEAAAAA
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf--

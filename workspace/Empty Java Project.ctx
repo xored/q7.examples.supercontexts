@@ -1,0 +1,44 @@
+--- Q7 testcase ---
+Format-Version: 1.0
+Q7-vendor: www.xored.com/q7
+Context-Type: com.xored.q7.workspace.context
+Element-Name: Empty Java Project
+Element-Type: context
+Element-Version: 2.0
+Id: _i1drUNHJEeKEQrCxVoftAg
+Q7-Runtime-Version: 1.3.3.201305250831
+Save-Time: 6/10/13 7:30 PM
+
+------=_contents/emptyProject/.classpath-aff3850e-8711-3246-b107-d5179c1ba359
+Content-Type: q7/binary
+Entry-Name: contents/emptyProject/.classpath
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnSzsa/IzVEoSy0qzszPs1Uy1DNQUkjN
+S85PycxLt1UKDXHTtVCyt+OySc5JLC4uSCzJsOPiRHBS80qKKhWyM/NSbJWKi5KVFECCEKY+ToXJ+Xkw
+hflF6XqpyTmZBcWpelkpJXo5iaV5yRlAq/W8glzjnf39Qhw9/VyD9PGYll9aUlBaAjMwKTMPpNZGH8m9
+AFBLBwi09c8ljwAAAOMAAABQSwECFAAUAAgACAAAACEAtPXPJY8AAADjAAAACAAAAAAAAAAAAAAAAAAA
+AAAALmNvbnRlbnRQSwUGAAAAAAEAAQA2AAAAxQAAAAAA
+------=_contents/emptyProject/.classpath-aff3850e-8711-3246-b107-d5179c1ba359--
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf
+Content-Type: q7/binary
+Entry-Name: .q7.content
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnSNkc1OwzAQhO95Cst3bMqlKEpSoSoS
+FIHgwM8NBdtJDbE3tU0T3p5NG0ccisRtvTP77djOVoNpyV45r8HmdMHOKVFWgNS2yelXqM8u6apIMgGG
+DeCUZLsl68F9+q4SKn2J1RpsUEMgg9HpTLsYaci3PsV+TrchdCnnfd8zMA0D1/DXu5toOb1inuKo84PO
+d0s+60wJ7FFiK4Pe0nThm2yqfUUeHHwoESjRMqdveiHd0/31plS35aNbD89Qh6uGFgkheDfMbsNY46k7
+zvmJqEZiZB0taKp1q6KDibbymCVsKT9tmJC/ZWglvtJkeNf2T807EbWMx2yH2HzOPZb/+p4i+QFQSwcI
+3qgmsgIBAADwAQAAUEsBAhQAFAAIAAgAAAAhAN6oJrICAQAA8AEAAAgAAAAAAAAAAAAAAAAAAAAAAC5j
+b250ZW50UEsFBgAAAAABAAEANgAAADgBAAAAAA==
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf--
+------=_contents/emptyProject/.project-1a8d5446-1671-3f48-9122-c3bfebaf0410
+Content-Type: q7/binary
+Entry-Name: contents/emptyProject/.project
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnR1kM0OwiAQhM/2KZreBb15oO1B49lE
+fQCETUNTfgK00bcXCjbWxNvM7CwfQNqnHMoJrBNa1dUe7aoSFNNcqK6u7rfz9lC1TUGM1T0wfwLHrDA+
+lJtiQxSV0IA0/nVJc4LnKIyYlhKUbwj+qBDmU1zU+Ns8RjHwqwEWTHbHsEYVj0EGadshYIMwDlDPPWLa
+BkEnOvfBLvCwQG03RqpLFq88wT+EHOQLBJofLaRq0v/ZaR7Rcy+etawvb1x92xtQSwcINUZX0r0AAABz
+AQAAUEsBAhQAFAAIAAgAAAAhADVGV9K9AAAAcwEAAAgAAAAAAAAAAAAAAAAAAAAAAC5jb250ZW50UEsF
+BgAAAAABAAEANgAAAPMAAAAAAA==
+------=_contents/emptyProject/.project-1a8d5446-1671-3f48-9122-c3bfebaf0410--

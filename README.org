@@ -1,0 +1,6 @@
+Sample test cases for rulers of Java editor. To run tests, simply do the following in your console:
+#+BEGIN_SRC fundamental
+$ git clone git://github.com/xored/q7.examples.supercontexts.git
+$ cd q7.examples.supercontexts
+$ mvn clean install
+#+END_SRC
